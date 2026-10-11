@@ -1,2 +1,3 @@
  # Práctica de Git - Ruben - Roberto
-   Reposi
+   Repositorio de prácticas del módulo de Desarrollo de Aplicaciones Multiplataforma.
+   Autores: Rubén Jiménez Manzano - Roberto Becerra Naranjo
