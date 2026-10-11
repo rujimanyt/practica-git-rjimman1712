@@ -1,3 +1,3 @@
- # Práctica de Git - Ruben
+ # Práctica de Git - Ruben - Roberto
    Repositorio de prácticas del módulo de Desarrollo de Aplicaciones Multiplataforma.
-   Autor: Rubén Jiménez Manzano
+   Autores: Rubén Jiménez Manzano - Roberto Becerra Naranjo
